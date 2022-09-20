@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: #fcccdc;
+}
+
+.bread-pic {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    background-color: #fcccdc;
+}
