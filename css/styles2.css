@@ -1,14 +1,32 @@
+* {
+    background-color: #fcccdc;
+}
+
 h1 {
     text-align: center;
-    background-color: #fcccdc;
+    background-color: white;
+    padding: 20px;
+    margin-right: 30%;
+    margin-left: 30%;
+    border-radius: 30px;
 }
 
 .bread-pic {
     height: auto;
-    width: 30%;
+    max-width: 35%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 8px;
+}
+
+.subheader {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 30px;
 }
 
 button {
